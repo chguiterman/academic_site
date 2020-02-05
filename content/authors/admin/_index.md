@@ -1,48 +1,47 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: Forest and fire ecologist specializing in dendrochronology to study historical forest processes, vulnerabilities of forests to climate change, and human-environmental interactions.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Natural Resource Studies
+    institution: University of Arizona
+    year: 2016
+  - course: MS in Forestry (Quantitative Silviculture)
+    institution: University of Maine, Orono
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BA (with honors) in Geology
+    institution: Bates College
+    year: 2005
 email: ""
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-name: Nelson Bighetti
+- Forest disturbance ecology
+- Human-environmental interactions
+- Dendrochronology
+name: Chris Guiterman
 organizations:
-- name: Stanford University
-  url: ""
-role: Professor of Artificial Intelligence
+- name: Laboratory of Tree-Ring Research, University of Arizona
+  url: https://ltrr.arizona.edu/
+role: Assistant Research Scientist
 social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/ChrisGuiterman
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=GNhvWtEAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/chguiterman
 superuser: true
 user_groups:
 - Researchers
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Research Scientist at the Laboratory of Tree-Ring Research at the University of Arizona. My research interests cover a range of topics including forest disturbance ecology, forest demography, human-environmental interactions, and archaeology. I am keen to understand how humans and climate change have affected forest resilience and how these lessons can be applied to management decisions. I am also active in developing new tools and resources for tree-ring scientists to improve field sampling, analytical methods, and data visualization. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I currently work remotely for the Tree-Ring Lab from my home in Hanover, New Hampshire.
