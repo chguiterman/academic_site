@@ -86,6 +86,7 @@ phone = "+1 (520) 230-2341"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
+# address = {street = "1215 E. lowell St", city = "Tucson", region = "AZ", postcode = "85721", country = "United States", country_code = "US"}
 address = {street = "PO Box 225", city = "Etna", region = "NH", postcode = "03750", country = "United States", country_code = "US"}
 
 # Geographic coordinates
@@ -117,7 +118,7 @@ contact_links = []
 ############################
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = "portrait.JPG"
+sharing_image = "avatar.jpg"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
 twitter = "ChrisGuiterman"
