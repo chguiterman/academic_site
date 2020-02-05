@@ -1,36 +1,33 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed
-  ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis
-  sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida
-  egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id
-  dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
-  Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: 'Unraveling the effects of climate and land-use on historical fire regimes provides important insights into broader human-fire-climate dynamics, which are necessary for ecologically-based forest management. We developed a spatial human land-use model for Navajo Nation forests across which we sampled a network of tree-ring fire history sites to reflect contrasting historical land-use intensity: high human use, primarily in the Chuska Mountains, and low human use, primarily on the central Defiance Plateau. We tested for and compared human- and climate-driven changes in the fire regimes by applying change point detection, regression, and superposed epoch analyses. The historical fire regimes and fire-climate relationships reflect those of similar forests regionally, and are similar between the two Navajo landscapes until the early 1800s. We then determined that a previously identified, localized, early (1830s) decline in fire activity was geographically widespread across higher human use sites. In contrast, fires continued to burn uninterrupted through this period at the lower use sites. Though the 1830s included significantly wet and cold periods that could have contributed to fire regime decline, human factors pose a more spatio-temporally consistent explanation. A rise in Navajo pastoralism in the 1820s-1830s was concentrated seasonally in the heavy use sites. By the 1880s, livestock numbers more than doubled, grazing became far more spatially widespread, and frequent fire regimes of Navajo forests collapsed. The last widespread fire recorded on either landscape was in 1886. In the Chuska Mountains, livestock and fire co-existed for over 50 years between the initial 1832 fire decline and the end of frequent fires after 1886, an exceptional pattern in the western US. Though unique in its timing, character, and spatial dynamics, the collapse of historical fire regimes in Navajo forests contributed to now over a century without frequent surface fire, leaving Navajo forests at risk for large, uncharacteristic high-severity fires.'
 authors:
 - admin
-- Robert Ford
-date: "2015-09-01T00:00:00Z"
-doi: ""
-featured: false
+- Ellis Margolis
+- Christopher Baisan
+- Donald Falk
+- Craig Allen
+- Thomas Swetnam
+date: "2019-11-11T00:00:00Z"
+doi: " https://doi.org/10.1002/ecs2.2932"
+featured: true
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Changing fire regimes in Navajo Nation forests'
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Journal of Source Themes, 1*(1)'
+publication: '*Ecosphere*'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2017-01-01T00:00:00Z"
-slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+publishDate: "2019-11-11T00:00:00Z"
+slides: ""
+summary: ""
 tags:
 - Source Themes
-title: An example journal article
+title: Historical human-fire interactions on the Navajo Nation
 url_code: ""
 url_dataset: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecs2.2932
 url_poster: ""
 url_project: ""
 url_slides: ""
@@ -38,12 +35,4 @@ url_source: ""
 url_video: ""
 ---
 
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
 
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).

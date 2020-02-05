@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Chris Guiterman</copyright><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Chris Guiterman</copyright><lastBuildDate>Mon, 11 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/avatar.jpg</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;I am a Research Scientist at the Laboratory of Tree-Ring Research at the University of Arizona. My research interests cover a range of topics including forest disturbance ecology, forest demography, human-environmental interactions, and archaeology. I am keen to understand how humans and climate change have affected forest resilience and how these lessons can be applied to management decisions. I am also active in developing new tools and resources for tree-ring scientists to improve field sampling, analytical methods, and data visualization.&lt;/p&gt;
 &lt;p&gt;I currently work remotely for the Tree-Ring Lab from my home in Hanover, New Hampshire.&lt;/p&gt;
@@ -23,9 +23,49 @@
     </item>
     
     <item>
+      <title>Christopher Baisan</title>
+      <link>/authors/christopher-baisan/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/christopher-baisan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Craig Allen</title>
+      <link>/authors/craig-allen/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/craig-allen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Donald Falk</title>
+      <link>/authors/donald-falk/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/donald-falk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ellis Margolis</title>
+      <link>/authors/ellis-margolis/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/ellis-margolis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thomas Swetnam</title>
+      <link>/authors/thomas-swetnam/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/thomas-swetnam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Robert Ford</title>
       <link>/authors/robert-ford/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
       <guid>/authors/robert-ford/</guid>
       <description></description>
     </item>

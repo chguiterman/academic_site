@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: Forest and fire ecologist specializing in dendrochronology to study historical forest processes, vulnerabilities of forests to climate change, and human-environmental interactions.
+bio: Forests | Fire | Tree Rings | R
 education:
   courses:
   - course: PhD in Natural Resource Studies
