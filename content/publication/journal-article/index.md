@@ -9,7 +9,7 @@ authors:
 - Thomas Swetnam
 date: "2019-11-11T00:00:00Z"
 doi: " https://doi.org/10.1002/ecs2.2932"
-featured: true
+featured: false
 image:
   caption: 'Changing fire regimes in Navajo Nation forests'
   focal_point: ""
@@ -35,4 +35,5 @@ url_source: ""
 url_video: ""
 ---
 
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="70184631" />
 
