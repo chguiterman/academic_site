@@ -22,7 +22,9 @@ name: Chris Guiterman
 organizations:
 - name: Laboratory of Tree-Ring Research, University of Arizona
   url: https://ltrr.arizona.edu/
-role: Assistant Research Scientist
+  role: Assistant Research Scientist
+- name: Three Pines Forest Research, LLC
+  role: Owner
 social:
 - icon: envelope
   icon_pack: fas
