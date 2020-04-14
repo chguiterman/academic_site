@@ -38,6 +38,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/chguiterman
+- icon: cv
+  icon_pack: ai
+  link: 'files/cv.pdf'
 superuser: true
 user_groups:
 - Researchers
