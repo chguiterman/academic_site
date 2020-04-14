@@ -13,13 +13,11 @@
     </image>
     
     <item>
-      <title></title>
+      <title>admin</title>
       <link>/authors/admin/</link>
       <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;I am a Research Scientist at the Laboratory of Tree-Ring Research at the University of Arizona. My research interests cover a range of topics including forest disturbance ecology, forest demography, human-environmental interactions, and archaeology. I am keen to understand how humans and climate change have affected forest resilience and how these lessons can be applied to management decisions. I am also active in developing new tools and resources for tree-ring scientists to improve field sampling, analytical methods, and data visualization.&lt;/p&gt;
-&lt;p&gt;I currently work remotely for the Tree-Ring Lab from my home in Hanover, New Hampshire.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -60,6 +58,16 @@
       <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
       <guid>/authors/thomas-swetnam/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/chris/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/chris/</guid>
+      <description>&lt;p&gt;I am a Research Scientist at the Laboratory of Tree-Ring Research at the University of Arizona. My research interests cover a range of topics including forest disturbance ecology, forest demography, human-environmental interactions, and archaeology. I am keen to understand how humans and climate change have affected forest resilience and how these lessons can be applied to management decisions. I am also active in developing new tools and resources for tree-ring scientists to improve field sampling, analytical methods, and data visualization.&lt;/p&gt;
+&lt;p&gt;I currently work remotely for the Tree-Ring Lab from my home in Hanover, New Hampshire.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
