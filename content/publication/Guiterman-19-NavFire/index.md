@@ -1,6 +1,6 @@
 ---
 authors:
-- admin
+- Chris Guiterman
 - Ellis Margolis
 - Christopher Baisan
 - Donald Falk
