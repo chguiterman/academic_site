@@ -1,4 +1,5 @@
 ---
+title: Spatiotemporal variability in human-fire interactions on the Navajo Nation
 authors:
 - Chris Guiterman
 - Ellis Margolis
@@ -9,10 +10,10 @@ authors:
 date: "2019-11-11T00:00:00Z"
 doi: " https://doi.org/10.1002/ecs2.2932"
 featured: false
-image:
-  caption: 'Changing fire regimes in Navajo Nation forests'
-  focal_point: ""
-  preview_only: true
+# image:
+#   caption: 'Changing fire regimes in Navajo Nation forests'
+#   focal_point: ""
+#   preview_only: true
 projects: []
 publication: '*Ecosphere*'
 publication_short: ""
@@ -21,7 +22,6 @@ publication_types:
 publishDate: "2019-11-11T00:00:00Z"
 slides: ""
 summary: ""
-title: Historical human-fire interactions on the Navajo Nation
 Abstract: "Unraveling the effects of climate and land use on historical fire regimes provides important
 insights into broader human–fire–climate dynamics, which are necessary for ecologically based forest management.
 We developed a spatial human land-use model for Navajo Nation forests across which we sampled

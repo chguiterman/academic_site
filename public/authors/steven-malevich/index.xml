@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Steven Malevich | Chris Guiterman</title>
+    <link>/authors/steven-malevich/</link>
+      <atom:link href="/authors/steven-malevich/index.xml" rel="self" type="application/rss+xml" />
+    <description>Steven Malevich</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Chris Guiterman</copyright><lastBuildDate>Thu, 01 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>Steven Malevich</title>
+      <link>/authors/steven-malevich/</link>
+    </image>
+    
+    <item>
+      <title>burnr: Fire history analysis and graphics in R</title>
+      <link>/publication/malevich-18-burnr/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/malevich-18-burnr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -4,7 +4,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-04-14T21:02:27-04:00</lastmod>
+    <lastmod>2020-04-14T21:06:17-04:00</lastmod>
   </url>
   
   <url>
@@ -14,22 +14,22 @@
   
   <url>
     <loc>/publication_types/2/</loc>
-    <lastmod>2020-04-14T21:02:27-04:00</lastmod>
+    <lastmod>2020-04-14T21:06:17-04:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2020-04-14T21:02:27-04:00</lastmod>
+    <lastmod>2020-04-14T21:06:17-04:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/chris-guiterman/</loc>
-    <lastmod>2020-04-14T21:02:27-04:00</lastmod>
+    <lastmod>2020-04-14T21:06:17-04:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/christopher-baisan/</loc>
-    <lastmod>2020-04-14T21:02:27-04:00</lastmod>
+    <lastmod>2020-04-14T21:06:17-04:00</lastmod>
   </url>
   
   <url>
@@ -54,7 +54,7 @@
   
   <url>
     <loc>/publication_types/</loc>
-    <lastmod>2020-04-14T21:02:27-04:00</lastmod>
+    <lastmod>2020-04-14T21:06:17-04:00</lastmod>
   </url>
   
   <url>
@@ -64,27 +64,27 @@
   
   <url>
     <loc>/authors/thomas-swetnam/</loc>
-    <lastmod>2020-04-14T21:02:27-04:00</lastmod>
+    <lastmod>2020-04-14T21:06:17-04:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/craig-allen/</loc>
-    <lastmod>2020-04-14T20:47:16-04:00</lastmod>
+    <lastmod>2020-04-14T21:06:17-04:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/donald-falk/</loc>
-    <lastmod>2020-04-14T20:47:16-04:00</lastmod>
+    <lastmod>2020-04-14T21:06:17-04:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/ellis-margolis/</loc>
-    <lastmod>2020-04-14T20:47:16-04:00</lastmod>
+    <lastmod>2020-04-14T21:06:17-04:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/guiterman-19-navfire/</loc>
-    <lastmod>2020-04-14T20:47:16-04:00</lastmod>
+    <lastmod>2020-04-14T21:06:17-04:00</lastmod>
   </url>
   
   <url>
@@ -98,6 +98,41 @@
   </url>
   
   <url>
+    <loc>/authors/ann-lynch/</loc>
+    <lastmod>2018-12-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/john-shaw/</loc>
+    <lastmod>2018-12-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/kit-oconnor/</loc>
+    <lastmod>2018-12-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/margaret-evans/</loc>
+    <lastmod>2018-12-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/r.-justin-derose/</loc>
+    <lastmod>2018-12-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/klesse-18-fia/</loc>
+    <lastmod>2018-12-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/stefan-klesse/</loc>
+    <lastmod>2018-12-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/privacy/</loc>
     <lastmod>2020-02-05T13:11:41-05:00</lastmod>
   </url>
@@ -105,6 +140,51 @@
   <url>
     <loc>/terms/</loc>
     <lastmod>2020-02-05T13:11:41-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/evans-18-comment/</loc>
+    <lastmod>2018-03-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/erin-riordan/</loc>
+    <lastmod>2018-03-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/joshua-fowler/</loc>
+    <lastmod>2018-03-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/paul-gugger/</loc>
+    <lastmod>2018-03-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/malevich-18-burnr/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/steven-malevich/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/don-falk/</loc>
+    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/guiterman-18-shrubs/</loc>
+    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/tom-swetnam/</loc>
+    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -120,6 +200,11 @@
   <url>
     <loc>/project/</loc>
     <lastmod>2020-04-14T20:47:16-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/guiterman-15-pgm/</loc>
+    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joshua Fowler | Chris Guiterman</title>
+    <link>/authors/joshua-fowler/</link>
+      <atom:link href="/authors/joshua-fowler/index.xml" rel="self" type="application/rss+xml" />
+    <description>Joshua Fowler</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Chris Guiterman</copyright><lastBuildDate>Wed, 21 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>Joshua Fowler</title>
+      <link>/authors/joshua-fowler/</link>
+    </image>
+    
+    <item>
+      <title>Dendroecology meets genomics in the common garden: new insights into climate adaptation</title>
+      <link>/publication/evans-18-comment/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/evans-18-comment/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
