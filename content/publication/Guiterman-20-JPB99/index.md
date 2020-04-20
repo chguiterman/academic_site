@@ -10,9 +10,9 @@ date: "2020-04-01T00:00:00Z"
 doi: "https://doi.org/10.1017/aaq.2020.6"
 featured: false
 image:
-  caption: 'Chuska Mountains source for the Plaza Tree'
+  caption: 'The Plaza Tree as depicted by the National Park Service'
   focal_point: ""
-  preview_only: true
+  preview_only: false
 projects: []
 publication: '*American Antiquity*'
 publication_short: ""

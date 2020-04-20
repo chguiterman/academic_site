@@ -24,6 +24,7 @@ organizations:
   url: https://ltrr.arizona.edu/
   role: Assistant Research Scientist
 - name: Three Pines Forest Research, LLC
+  url: "project/ThreePines/"
   role: Owner
 social:
 - icon: envelope

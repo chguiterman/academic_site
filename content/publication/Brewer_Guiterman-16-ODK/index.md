@@ -6,10 +6,10 @@ authors:
 date: "2016-06-01T00:00:00Z"
 doi: "https://doi.org/10.1016/j.dendro.2016.04.005"
 featured: false
-# image:
-#   caption: 'Chuska Mountains source for the Plaza Tree'
-#   focal_point: ""
-#   preview_only: true
+image:
+  caption: 'Credit: Dan Ferguson'
+  focal_point: ""
+  preview_only: false
 projects: []
 publication: '*Dendrochronologia*'
 publication_short: ""

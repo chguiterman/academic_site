@@ -6,6 +6,8 @@ authors:
 - Chris Guiterman
 date: "2015-03-01T00:00:00Z"
 doi: "https://doi.org/10.1016/j.dendro.2014.10.001"
+image:
+  caption: "Tree-ring sourcing identified Ohio as the most likely origin of ship-building timbers."
 featured: false
 projects: []
 publication: '*Dendrochronologia*'
