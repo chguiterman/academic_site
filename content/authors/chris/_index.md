@@ -36,6 +36,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=GNhvWtEAAAAJ&hl=en
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Christopher_Guiterman
 - icon: github
   icon_pack: fab
   link: https://github.com/chguiterman
