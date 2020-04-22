@@ -194,9 +194,9 @@ Three
     
     <item>
       <title></title>
-      <link>/project/threepines/</link>
+      <link>/post/threepines/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/project/threepines/</guid>
+      <guid>/post/threepines/</guid>
       <description>&lt;p&gt;Three Pines Forest Research, LLC. was established in 2019 to provide services to the forest science and management communities. I offer consulting, collaboration, and project operation including:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Forest inventory and monitoring&lt;/li&gt;
@@ -222,6 +222,14 @@ Three
       <guid>/publication/klesse-18-fia/</guid>
       <description>&lt;script type=&#34;text/javascript&#34; src=&#34;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#34;&gt;&lt;/script&gt;&lt;div class=&#34;altmetric-embed&#34; data-badge-type=&#34;donut&#34; data-altmetric-id=&#34;52766934&#34; /&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Long-Term Persistence and Fire Resilience of Oak Shrubfields in Dry Conifer Forests of Northern New Mexico</title>
+      <link>/publication/guiterman-18-shrubs/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/guiterman-18-shrubs/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -255,14 +263,6 @@ Three
       <link>/publication/malevich-18-burnr/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
       <guid>/publication/malevich-18-burnr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Long-Term Persistence and Fire Resilience of Oak Shrubfields in Dry Conifer Forests of Northern New Mexico</title>
-      <link>/publication/guiterman-18-shrubs/</link>
-      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/guiterman-18-shrubs/</guid>
       <description></description>
     </item>
     
@@ -322,6 +322,30 @@ Three
       <link>/publication/creaseman-15-charlestown/</link>
       <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
       <guid>/publication/creaseman-15-charlestown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Signal strength in sub-annual chronologies from Pinus ponderosa in northern New Mexico</title>
+      <link>/publication/brice-2013-latewood/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/brice-2013-latewood/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Long-Term Thinning Effects on the Leaf Area of Pinus strobus L. as Estimated from Litterfall and Individual-Tree Allometric Models</title>
+      <link>/publication/guiterman-12-lai/</link>
+      <pubDate>Wed, 01 Feb 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/guiterman-12-lai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Influences of Conventional and Low-Density Thinning on the Lower Bole Taper and Volume Growth of Eastern White Pine</title>
+      <link>/publication/guiterman-11-gfc/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/guiterman-11-gfc/</guid>
       <description></description>
     </item>
     

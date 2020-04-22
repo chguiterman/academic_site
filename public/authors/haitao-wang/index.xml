@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Haitao Wang | Chris Guiterman</title>
+    <link>/authors/haitao-wang/</link>
+      <atom:link href="/authors/haitao-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Haitao Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Chris Guiterman</copyright><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>Haitao Wang</title>
+      <link>/authors/haitao-wang/</link>
+    </image>
+    
+    <item>
+      <title>Signal strength in sub-annual chronologies from Pinus ponderosa in northern New Mexico</title>
+      <link>/publication/brice-2013-latewood/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/brice-2013-latewood/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -4,7 +4,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-04-17T21:11:28-04:00</lastmod>
+    <lastmod>2020-04-19T21:57:33-04:00</lastmod>
   </url>
   
   <url>
@@ -14,57 +14,57 @@
   
   <url>
     <loc>/publication_types/2/</loc>
-    <lastmod>2020-04-17T21:11:28-04:00</lastmod>
+    <lastmod>2020-04-19T21:57:33-04:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2020-04-17T21:11:28-04:00</lastmod>
+    <lastmod>2020-04-19T21:57:33-04:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/chris-guiterman/</loc>
-    <lastmod>2020-04-17T21:11:28-04:00</lastmod>
+    <lastmod>2020-04-19T21:57:33-04:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/christopher-baisan/</loc>
-    <lastmod>2020-04-16T21:57:53-04:00</lastmod>
+    <lastmod>2020-04-19T21:57:33-04:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/guiterman-20-jpb99/</loc>
-    <lastmod>2020-04-14T21:02:27-04:00</lastmod>
+    <lastmod>2020-04-19T21:57:33-04:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/jay-quade/</loc>
-    <lastmod>2020-04-14T21:02:27-04:00</lastmod>
+    <lastmod>2020-04-19T21:57:33-04:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/jeffrey-dean/</loc>
-    <lastmod>2020-04-17T21:11:28-04:00</lastmod>
+    <lastmod>2020-04-19T21:57:33-04:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/nathan-b.-english/</loc>
-    <lastmod>2020-04-14T21:02:27-04:00</lastmod>
+    <lastmod>2020-04-19T21:57:33-04:00</lastmod>
   </url>
   
   <url>
     <loc>/publication_types/</loc>
-    <lastmod>2020-04-17T21:11:28-04:00</lastmod>
+    <lastmod>2020-04-19T21:57:33-04:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2020-04-17T21:11:28-04:00</lastmod>
+    <lastmod>2020-04-19T21:57:33-04:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/thomas-swetnam/</loc>
-    <lastmod>2020-04-17T21:11:28-04:00</lastmod>
+    <lastmod>2020-04-19T21:57:33-04:00</lastmod>
   </url>
   
   <url>
@@ -98,13 +98,13 @@
   </url>
   
   <url>
-    <loc>/project/threepines/</loc>
+    <loc>/post/threepines/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/</loc>
-    <lastmod>2020-04-14T20:47:16-04:00</lastmod>
+    <loc>/post/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -139,6 +139,21 @@
   
   <url>
     <loc>/authors/stefan-klesse/</loc>
+    <lastmod>2020-04-16T21:57:53-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/don-falk/</loc>
+    <lastmod>2020-04-16T21:57:53-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/guiterman-18-shrubs/</loc>
+    <lastmod>2020-04-16T21:57:53-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/tom-swetnam/</loc>
     <lastmod>2020-04-16T21:57:53-04:00</lastmod>
   </url>
   
@@ -183,21 +198,6 @@
   </url>
   
   <url>
-    <loc>/authors/don-falk/</loc>
-    <lastmod>2020-04-16T21:57:53-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/guiterman-18-shrubs/</loc>
-    <lastmod>2020-04-16T21:57:53-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/tom-swetnam/</loc>
-    <lastmod>2020-04-16T21:57:53-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/julio-betancourt/</loc>
     <lastmod>2020-04-17T21:11:28-04:00</lastmod>
   </url>
@@ -209,12 +209,12 @@
   
   <url>
     <loc>/publication/brewer_guiterman-16-odk/</loc>
-    <lastmod>2020-04-17T21:11:28-04:00</lastmod>
+    <lastmod>2020-04-19T21:57:33-04:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/peter-brewer/</loc>
-    <lastmod>2020-04-17T21:11:28-04:00</lastmod>
+    <lastmod>2020-04-19T21:57:33-04:00</lastmod>
   </url>
   
   <url>
@@ -225,6 +225,11 @@
   <url>
     <loc>/project/internal-project/</loc>
     <lastmod>2020-02-05T13:11:41-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2020-04-14T20:47:16-04:00</lastmod>
   </url>
   
   <url>
@@ -239,22 +244,112 @@
   
   <url>
     <loc>/authors/chris-baisan/</loc>
-    <lastmod>2020-04-17T21:11:28-04:00</lastmod>
+    <lastmod>2020-04-19T21:57:33-04:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/creaseman-15-charlestown/</loc>
-    <lastmod>2020-04-17T21:11:28-04:00</lastmod>
+    <lastmod>2020-04-19T21:57:33-04:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/pearce-paul-creasman/</loc>
-    <lastmod>2020-04-17T21:11:28-04:00</lastmod>
+    <lastmod>2020-04-19T21:57:33-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/alison-macalady/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/amy-cutter/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/ashley-stewart/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/daniel-griffin/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/haitao-wang/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/james-speer/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/kara-lorion/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/laura-benakoun/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/megan-hart/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/michael-murray/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/rebecca-brice/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/rob-shepard/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/brice-2013-latewood/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/steve-nash/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/aaron-weiskittel/</loc>
+    <lastmod>2012-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/guiterman-12-lai/</loc>
+    <lastmod>2012-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/robert-seymour/</loc>
+    <lastmod>2012-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/guiterman-11-gfc/</loc>
+    <lastmod>2011-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/chris/</loc>
-    <lastmod>2020-04-13T20:58:04-04:00</lastmod>
+    <lastmod>2020-04-19T21:57:33-04:00</lastmod>
   </url>
   
   <url>
