@@ -5,12 +5,26 @@
     <link>/project/</link>
       <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Chris Guiterman</copyright><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Chris Guiterman</copyright><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/avatar.jpg</url>
       <title>Projects</title>
       <link>/project/</link>
     </image>
+    
+    <item>
+      <title></title>
+      <link>/project/na-fire-synthesis/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/project/na-fire-synthesis/</guid>
+      <description>&lt;h2 id=&#34;synthesizing-the-north-american-fire-scar-record&#34;&gt;Synthesizing the North American Fire Scar Record&lt;/h2&gt;
+&lt;p&gt;Nearly 2000 tree-ring fire history sites have been sampled over the last 40 years, and yet few have attempted to consolodate, organize, and understand this incredible resource. Ellis Margolis and I are leading a group of over 30 scientists to synthesize the record of historical fire regimes across the North American continent. The project is in its infancy, but already we&amp;rsquo;ve added more than 1000 sites to the data set of publicly available tree-ring fire history collections.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://chguiterman.github.io/NAFireHistory/map.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://chguiterman.github.io/NAFireHistory/map.html&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;We are looking for collaborators and data contributors. If you would like to join us, please let me know.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title></title>
