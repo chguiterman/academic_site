@@ -33,5 +33,7 @@ Largely based on my dissertation work, this report summarizes mutliple projects 
 
 Find the report at [https://chguiterman.github.io/Nav_report/](https://chguiterman.github.io/Nav_report/)
 
+A culmination of the project was a week-long "Navajo Forests Tour" in which I invited Navajo resources managers from across the Division of Natural Resources and BIA, along with forest and watershed scientists with vested interests in the Navajo landscape. The tour was an amazing time - we had 50 managers and scientists (22-32 per day) representing 19 tribal, academic, and federal institutions. Several Department heads from the Navajo Nation called for another tour. This had been in the planning stage for 2020, but with everything caceled this year, hopefully we can organize it soon.
+
 
 
