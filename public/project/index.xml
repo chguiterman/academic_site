@@ -72,6 +72,29 @@ This project is a collaboration with Ellis Margolis, Steven Malevich, Tom Swetna
     
     <item>
       <title></title>
+      <link>/project/burnr/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>/project/burnr/</guid>
+      <description>&lt;h2 id=&#34;burnr&#34;&gt;burnr&lt;/h2&gt;
+&lt;p&gt;I have been collaborating to develop the &lt;code&gt;burnr&lt;/code&gt; fire history library for more than 4 years. It&amp;rsquo;s as much enjoyment as it is self-serving &amp;ndash; I needed to do a lot of fire history analyses for my dissertation and I wanted to do that in &lt;code&gt;R&lt;/code&gt;. As good as other fire history programs are, I am an unashamed addict of using &lt;code&gt;R&lt;/code&gt;. But more than that, I see the incredible potential of &lt;code&gt;R&lt;/code&gt; for tree ring and all sciences, and I wanted to help others similarly interested in applying the program and its myriad of features to their own work. I truly hope people will use &lt;code&gt;burnr&lt;/code&gt;, and I am more than happy to help in that effort.&lt;/p&gt;
+&lt;p&gt;So far, I have used &lt;code&gt;burnr&lt;/code&gt; in several research projects, including my work on 
+&lt;a href=&#34;/publication/guiterman-18-shrubs/&#34;&gt;shrubfields&lt;/a&gt;
+ and the 
+&lt;a href=&#34;/publication/guiterman-19-navfire/&#34;&gt;Navajo fire history&lt;/a&gt;
+. Several more papers are in the works.&lt;/p&gt;
+&lt;p&gt;We are also pushing the bounds of &lt;code&gt;burnr&lt;/code&gt; by conducting large-scale syntheses for the 
+&lt;a href=&#34;/project/sw-fire-synthesis/&#34;&gt;American Southwest&lt;/a&gt;
+ and for the 
+&lt;a href=&#34;/project/na-fire-synthesis/&#34;&gt;North American Continent&lt;/a&gt;
+.&lt;/p&gt;
+&lt;p&gt;I have put together a teaching demo of &lt;code&gt;burnr&lt;/code&gt; that includes all of the data and code required to run through a bunch of basics, and some advanced features, using &lt;code&gt;burnr&lt;/code&gt;. Please check it out at 
+&lt;a href=&#34;https://github.com/chguiterman/burnr_demo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/chguiterman/burnr_demo&lt;/a&gt;
+.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>/project/dfoliatr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/project/dfoliatr/</guid>
