@@ -5,12 +5,20 @@
     <link>/authors/ann-lynch/</link>
       <atom:link href="/authors/ann-lynch/index.xml" rel="self" type="application/rss+xml" />
     <description>Ann Lynch</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Chris Guiterman</copyright><lastBuildDate>Mon, 17 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Chris Guiterman</copyright><lastBuildDate>Mon, 27 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/avatar.jpg</url>
       <title>Ann Lynch</title>
       <link>/authors/ann-lynch/</link>
     </image>
+    
+    <item>
+      <title>Continental-scale tree-ring based projection of Douglas-fir growth - Testing the limits of space-for-time substitution</title>
+      <link>/publication/klesse-20-psme/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/klesse-20-psme/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Sampling bias overestimates climate change impacts on forest growth in the southwestern United States</title>

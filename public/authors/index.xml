@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Chris Guiterman</copyright><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Chris Guiterman</copyright><lastBuildDate>Mon, 27 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/avatar.jpg</url>
       <title>Authors</title>
@@ -13,10 +13,170 @@
     </image>
     
     <item>
+      <title>Ailene Ettinger</title>
+      <link>/authors/ailene-ettinger/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/ailene-ettinger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ann Lynch</title>
+      <link>/authors/ann-lynch/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/ann-lynch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bryan Black1</title>
+      <link>/authors/bryan-black1/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/bryan-black1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Chris Guiterman</title>
       <link>/authors/chris-guiterman/</link>
-      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
       <guid>/authors/chris-guiterman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christina Restaino</title>
+      <link>/authors/christina-restaino/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/christina-restaino/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dan Smith</title>
+      <link>/authors/dan-smith/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/dan-smith/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dave Sauchyn</title>
+      <link>/authors/dave-sauchyn/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/dave-sauchyn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flurin Babst</title>
+      <link>/authors/flurin-babst/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/flurin-babst/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grant Harley</title>
+      <link>/authors/grant-harley/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/grant-harley/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hardy Griesbauer</title>
+      <link>/authors/hardy-griesbauer/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/hardy-griesbauer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jill Harvey</title>
+      <link>/authors/jill-harvey/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/jill-harvey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jodi Axelson</title>
+      <link>/authors/jodi-axelson/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/jodi-axelson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>John Shaw</title>
+      <link>/authors/john-shaw/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/john-shaw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jose Villanueva-Díaz</title>
+      <link>/authors/jose-villanueva-diaz/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/jose-villanueva-diaz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kit O&#39;Connor</title>
+      <link>/authors/kit-oconnor/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/kit-oconnor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leander Anderegg</title>
+      <link>/authors/leander-anderegg/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/leander-anderegg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lisa Wood</title>
+      <link>/authors/lisa-wood/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/lisa-wood/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Margaret Evans</title>
+      <link>/authors/margaret-evans/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/margaret-evans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. Justin DeRose</title>
+      <link>/authors/r.-justin-derose/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/r.-justin-derose/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stefan Klesse</title>
+      <link>/authors/stefan-klesse/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/stefan-klesse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yueh-Hsin Lo</title>
+      <link>/authors/yueh-hsin-lo/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/yueh-hsin-lo/</guid>
       <description></description>
     </item>
     
@@ -81,54 +241,6 @@
       <link>/authors/ellis-margolis/</link>
       <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
       <guid>/authors/ellis-margolis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ann Lynch</title>
-      <link>/authors/ann-lynch/</link>
-      <pubDate>Mon, 17 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/ann-lynch/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>John Shaw</title>
-      <link>/authors/john-shaw/</link>
-      <pubDate>Mon, 17 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/john-shaw/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kit O&#39;Connor</title>
-      <link>/authors/kit-oconnor/</link>
-      <pubDate>Mon, 17 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/kit-oconnor/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Margaret Evans</title>
-      <link>/authors/margaret-evans/</link>
-      <pubDate>Mon, 17 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/margaret-evans/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R. Justin DeRose</title>
-      <link>/authors/r.-justin-derose/</link>
-      <pubDate>Mon, 17 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/r.-justin-derose/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Stefan Klesse</title>
-      <link>/authors/stefan-klesse/</link>
-      <pubDate>Mon, 17 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/stefan-klesse/</guid>
       <description></description>
     </item>
     
