@@ -1,7 +1,7 @@
 ---
 title: Long-Term Persistence and Fire Resilience of Oak Shrubfields in Dry Conifer Forests of Northern New Mexico
 authors: 
-- Chris Guiterman
+- '**Chris Guiterman**'
 - Ellis Margolis
 - Craig Allen
 - Don Falk

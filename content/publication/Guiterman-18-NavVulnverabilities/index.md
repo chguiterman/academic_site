@@ -1,7 +1,7 @@
 ---
 title: 'Vulnerabilities of Navajo Nation Forests to Climate Change'
 authors: 
-- Chris Guiterman
+- '**Chris Guiterman**'
 - Ellis Margolis
 date: "2018-12-01T00:00:00Z"
 doi: ""

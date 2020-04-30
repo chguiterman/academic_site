@@ -23,17 +23,25 @@ height = "calc(100vh - 70px)"
   overlay_filter = 0.0  # Darken the image. Value in range 0-1.
 
 [[item]]
+  overlay_img = "tim-herman.jpg"
+  overlay_filter = 0.0 
+  
+[[item]]
   overlay_img = "bk-log.jpg"
   overlay_filter = 0.0 
 
 [[item]]
+  overlay_img = "melissa-pat_2.jpg"
+  overlay_filter = 0.0
+
+[[item]]
   overlay_img = "defiance.JPG"  
   overlay_filter = 0.0  # Darken the image. Value in range 0-1.
-  
-[[item]]
-  overlay_img = "tim-herman.jpg"
-  overlay_filter = 0.0 
 
+[[item]]
+  overlay_img = "peel.jpg"
+  overlay_filter = 0.0
+  
 [[item]]
   overlay_img = "sog-rock.jpg"
   overlay_filter = 0.0 

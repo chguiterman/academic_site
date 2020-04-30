@@ -1,6 +1,6 @@
 ---
 authors:
-- Chris Guiterman
+- '**Chris Guiterman**'
 - Thomas Swetnam
 - Jeffrey Dean
 date: "2016-02-02T00:00:00Z"

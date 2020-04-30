@@ -1,7 +1,7 @@
 ---
 title: Spatiotemporal variability in human-fire interactions on the Navajo Nation
 authors:
-- Chris Guiterman
+- '**Chris Guiterman**'
 - Ellis Margolis
 - Christopher Baisan
 - Donald Falk

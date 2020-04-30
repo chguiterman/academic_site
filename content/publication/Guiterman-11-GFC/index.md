@@ -1,7 +1,7 @@
 ---
 title: 'Influences of Conventional and Low-Density Thinning on the Lower Bole Taper and Volume Growth of Eastern White Pine'
 authors: 
-- Chris Guiterman
+- '**Chris Guiterman**'
 - Aaron Weiskittel
 - Robert Seymour
 date: "2011-09-01T00:00:00Z"

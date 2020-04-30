@@ -3,7 +3,7 @@ title: 'Dendrochronological evaluation of ship timber from Charlestown Navy Yard
 authors: 
 - Pearce Paul Creasman
 - Chris Baisan
-- Chris Guiterman
+- '**Chris Guiterman**'
 date: "2015-03-01T00:00:00Z"
 doi: "https://doi.org/10.1016/j.dendro.2014.10.001"
 image:

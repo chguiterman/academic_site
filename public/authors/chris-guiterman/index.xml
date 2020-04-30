@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Chris Guiterman</title>
+    <title>**Chris Guiterman** | Chris Guiterman</title>
     <link>/authors/chris-guiterman/</link>
       <atom:link href="/authors/chris-guiterman/index.xml" rel="self" type="application/rss+xml" />
-    <description>Chris Guiterman</description>
+    <description>**Chris Guiterman**</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Chris Guiterman</copyright><lastBuildDate>Mon, 27 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/avatar.jpg</url>
-      <title>Chris Guiterman</title>
+      <title>**Chris Guiterman**</title>
       <link>/authors/chris-guiterman/</link>
     </image>
     

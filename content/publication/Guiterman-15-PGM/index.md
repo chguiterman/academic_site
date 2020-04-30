@@ -1,7 +1,7 @@
 ---
 title: Dendroecological methods for reconstructing high severity fire in pine-oak forests
 authors: 
-- Chris Guiterman
+- '**Chris Guiterman**'
 - Ellis Margolis
 - Tom Swetnam
 date: "2015-12-01T00:00:00Z"

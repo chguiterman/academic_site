@@ -2,7 +2,7 @@
 title: 'A new digital field data collection system for dendrochronology'
 authors: 
 - Peter Brewer
-- Chris Guiterman
+- '**Chris Guiterman**'
 date: "2016-06-01T00:00:00Z"
 doi: "https://doi.org/10.1016/j.dendro.2016.04.005"
 featured: false

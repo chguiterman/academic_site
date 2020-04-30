@@ -1,6 +1,6 @@
 ---
 authors:
-- Chris Guiterman
+- '**Chris Guiterman**'
 - Christopher Baisan
 - Nathan B. English
 - Jay Quade

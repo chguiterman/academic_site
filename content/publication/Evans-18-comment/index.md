@@ -4,7 +4,7 @@ authors:
 - Margaret Evans
 - Paul Gugger
 - Ann Lynch
-- Chris Guiterman
+- '**Chris Guiterman**'
 - Joshua Fowler
 - Stefan Klesse
 - Erin Riordan

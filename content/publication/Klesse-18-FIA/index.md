@@ -3,7 +3,7 @@ title: Sampling bias overestimates climate change impacts on forest growth in th
 authors: 
 - Stefan Klesse
 - R. Justin DeRose
-- Chris Guiterman
+- '**Chris Guiterman**'
 - Ann Lynch
 - Kit O'Connor
 - John Shaw

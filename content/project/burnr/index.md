@@ -1,7 +1,7 @@
 ---
 date: "2016-08-01T00:00:00Z"
 external_link: ""
-summary: '`burnr`: Fire history analyses in R'
+summary: '*burnr*: An R package for tree-ring fire history'
 url_code: "https://github.com/ltrr-arizona-edu/burnr"
 url_pdf: "publication/Malevich-18-burnr"
 # url_slides: "slides/2019-AFE/Guiterman_SWFireSynthesis_AFE 2019.pdf"

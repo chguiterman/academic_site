@@ -2,7 +2,7 @@
 title: 'Revisiting human-environmental interactions in Chaco Canyon and the American Southwest'
 authors: 
 - Julio Betancourt
-- Chris Guiterman
+- '**Chris Guiterman**'
 date: "2016-12-01T00:00:00Z"
 doi: "https://doi.org/ 10.22498/pages.24.2.64"
 featured: false

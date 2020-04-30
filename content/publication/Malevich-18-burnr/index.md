@@ -2,7 +2,7 @@
 title: 'burnr: Fire history analysis and graphics in R'
 authors: 
 - Steven Malevich
-- Chris Guiterman
+- '**Chris Guiterman**'
 - Ellis Margolis
 date: "2018-03-01T00:00:00Z"
 doi: "https://doi.org/10.1016/j.dendro.2018.02.005"
