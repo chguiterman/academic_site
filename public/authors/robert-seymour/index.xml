@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Robert Seymour | Chris Guiterman</title>
-    <link>/authors/robert-seymour/</link>
-      <atom:link href="/authors/robert-seymour/index.xml" rel="self" type="application/rss+xml" />
+    <link>/chris-guiterman.rbind.io/authors/robert-seymour/</link>
+      <atom:link href="/chris-guiterman.rbind.io/authors/robert-seymour/index.xml" rel="self" type="application/rss+xml" />
     <description>Robert Seymour</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Chris Guiterman</copyright><lastBuildDate>Wed, 01 Feb 2012 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/avatar.jpg</url>
+      <url>/chris-guiterman.rbind.io/img/avatar.jpg</url>
       <title>Robert Seymour</title>
-      <link>/authors/robert-seymour/</link>
+      <link>/chris-guiterman.rbind.io/authors/robert-seymour/</link>
     </image>
     
     <item>
       <title>Long-Term Thinning Effects on the Leaf Area of Pinus strobus L. as Estimated from Litterfall and Individual-Tree Allometric Models</title>
-      <link>/publication/guiterman-12-lai/</link>
+      <link>/chris-guiterman.rbind.io/publication/guiterman-12-lai/</link>
       <pubDate>Wed, 01 Feb 2012 00:00:00 +0000</pubDate>
-      <guid>/publication/guiterman-12-lai/</guid>
+      <guid>/chris-guiterman.rbind.io/publication/guiterman-12-lai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Influences of Conventional and Low-Density Thinning on the Lower Bole Taper and Volume Growth of Eastern White Pine</title>
-      <link>/publication/guiterman-11-gfc/</link>
+      <link>/chris-guiterman.rbind.io/publication/guiterman-11-gfc/</link>
       <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
-      <guid>/publication/guiterman-11-gfc/</guid>
+      <guid>/chris-guiterman.rbind.io/publication/guiterman-11-gfc/</guid>
       <description></description>
     </item>
     

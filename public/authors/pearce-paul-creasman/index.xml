@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pearce Paul Creasman | Chris Guiterman</title>
-    <link>/authors/pearce-paul-creasman/</link>
-      <atom:link href="/authors/pearce-paul-creasman/index.xml" rel="self" type="application/rss+xml" />
+    <link>/chris-guiterman.rbind.io/authors/pearce-paul-creasman/</link>
+      <atom:link href="/chris-guiterman.rbind.io/authors/pearce-paul-creasman/index.xml" rel="self" type="application/rss+xml" />
     <description>Pearce Paul Creasman</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Chris Guiterman</copyright><lastBuildDate>Sun, 01 Mar 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/avatar.jpg</url>
+      <url>/chris-guiterman.rbind.io/img/avatar.jpg</url>
       <title>Pearce Paul Creasman</title>
-      <link>/authors/pearce-paul-creasman/</link>
+      <link>/chris-guiterman.rbind.io/authors/pearce-paul-creasman/</link>
     </image>
     
     <item>
       <title>Dendrochronological evaluation of ship timber from Charlestown Navy Yard (Boston, MA)</title>
-      <link>/publication/creaseman-15-charlestown/</link>
+      <link>/chris-guiterman.rbind.io/publication/creaseman-15-charlestown/</link>
       <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/creaseman-15-charlestown/</guid>
+      <guid>/chris-guiterman.rbind.io/publication/creaseman-15-charlestown/</guid>
       <description></description>
     </item>
     

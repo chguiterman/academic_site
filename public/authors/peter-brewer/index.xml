@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Peter Brewer | Chris Guiterman</title>
-    <link>/authors/peter-brewer/</link>
-      <atom:link href="/authors/peter-brewer/index.xml" rel="self" type="application/rss+xml" />
+    <link>/chris-guiterman.rbind.io/authors/peter-brewer/</link>
+      <atom:link href="/chris-guiterman.rbind.io/authors/peter-brewer/index.xml" rel="self" type="application/rss+xml" />
     <description>Peter Brewer</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Chris Guiterman</copyright><lastBuildDate>Wed, 01 Jun 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/avatar.jpg</url>
+      <url>/chris-guiterman.rbind.io/img/avatar.jpg</url>
       <title>Peter Brewer</title>
-      <link>/authors/peter-brewer/</link>
+      <link>/chris-guiterman.rbind.io/authors/peter-brewer/</link>
     </image>
     
     <item>
       <title>A new digital field data collection system for dendrochronology</title>
-      <link>/publication/brewer_guiterman-16-odk/</link>
+      <link>/chris-guiterman.rbind.io/publication/brewer_guiterman-16-odk/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/brewer_guiterman-16-odk/</guid>
+      <guid>/chris-guiterman.rbind.io/publication/brewer_guiterman-16-odk/</guid>
       <description></description>
     </item>
     

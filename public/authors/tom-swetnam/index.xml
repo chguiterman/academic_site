@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tom Swetnam | Chris Guiterman</title>
-    <link>/authors/tom-swetnam/</link>
-      <atom:link href="/authors/tom-swetnam/index.xml" rel="self" type="application/rss+xml" />
+    <link>/chris-guiterman.rbind.io/authors/tom-swetnam/</link>
+      <atom:link href="/chris-guiterman.rbind.io/authors/tom-swetnam/index.xml" rel="self" type="application/rss+xml" />
     <description>Tom Swetnam</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Chris Guiterman</copyright><lastBuildDate>Wed, 01 Aug 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/avatar.jpg</url>
+      <url>/chris-guiterman.rbind.io/img/avatar.jpg</url>
       <title>Tom Swetnam</title>
-      <link>/authors/tom-swetnam/</link>
+      <link>/chris-guiterman.rbind.io/authors/tom-swetnam/</link>
     </image>
     
     <item>
       <title>Long-Term Persistence and Fire Resilience of Oak Shrubfields in Dry Conifer Forests of Northern New Mexico</title>
-      <link>/publication/guiterman-18-shrubs/</link>
+      <link>/chris-guiterman.rbind.io/publication/guiterman-18-shrubs/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/guiterman-18-shrubs/</guid>
+      <guid>/chris-guiterman.rbind.io/publication/guiterman-18-shrubs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dendroecological methods for reconstructing high severity fire in pine-oak forests</title>
-      <link>/publication/guiterman-15-pgm/</link>
+      <link>/chris-guiterman.rbind.io/publication/guiterman-15-pgm/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/guiterman-15-pgm/</guid>
+      <guid>/chris-guiterman.rbind.io/publication/guiterman-15-pgm/</guid>
       <description></description>
     </item>
     

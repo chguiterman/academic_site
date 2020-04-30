@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Paul Gugger | Chris Guiterman</title>
-    <link>/authors/paul-gugger/</link>
-      <atom:link href="/authors/paul-gugger/index.xml" rel="self" type="application/rss+xml" />
+    <link>/chris-guiterman.rbind.io/authors/paul-gugger/</link>
+      <atom:link href="/chris-guiterman.rbind.io/authors/paul-gugger/index.xml" rel="self" type="application/rss+xml" />
     <description>Paul Gugger</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Chris Guiterman</copyright><lastBuildDate>Wed, 21 Mar 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/avatar.jpg</url>
+      <url>/chris-guiterman.rbind.io/img/avatar.jpg</url>
       <title>Paul Gugger</title>
-      <link>/authors/paul-gugger/</link>
+      <link>/chris-guiterman.rbind.io/authors/paul-gugger/</link>
     </image>
     
     <item>
       <title>Dendroecology meets genomics in the common garden: new insights into climate adaptation</title>
-      <link>/publication/evans-18-comment/</link>
+      <link>/chris-guiterman.rbind.io/publication/evans-18-comment/</link>
       <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/evans-18-comment/</guid>
+      <guid>/chris-guiterman.rbind.io/publication/evans-18-comment/</guid>
       <description></description>
     </item>
     

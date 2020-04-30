@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Julio Betancourt | Chris Guiterman</title>
-    <link>/authors/julio-betancourt/</link>
-      <atom:link href="/authors/julio-betancourt/index.xml" rel="self" type="application/rss+xml" />
+    <link>/chris-guiterman.rbind.io/authors/julio-betancourt/</link>
+      <atom:link href="/chris-guiterman.rbind.io/authors/julio-betancourt/index.xml" rel="self" type="application/rss+xml" />
     <description>Julio Betancourt</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Chris Guiterman</copyright><lastBuildDate>Thu, 01 Dec 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/avatar.jpg</url>
+      <url>/chris-guiterman.rbind.io/img/avatar.jpg</url>
       <title>Julio Betancourt</title>
-      <link>/authors/julio-betancourt/</link>
+      <link>/chris-guiterman.rbind.io/authors/julio-betancourt/</link>
     </image>
     
     <item>
       <title>Revisiting human-environmental interactions in Chaco Canyon and the American Southwest</title>
-      <link>/publication/betancourt_guiterman-16-pages/</link>
+      <link>/chris-guiterman.rbind.io/publication/betancourt_guiterman-16-pages/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/betancourt_guiterman-16-pages/</guid>
+      <guid>/chris-guiterman.rbind.io/publication/betancourt_guiterman-16-pages/</guid>
       <description></description>
     </item>
     
