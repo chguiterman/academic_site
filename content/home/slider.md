@@ -18,46 +18,51 @@ height = "calc(100vh - 200px)"
 # Duplicate an `[[item]]` block to add more slides.
 # Image path relative to your `static/img/` folder.
 
+# [[item]]
+#   overlay_img = "nav-tot.jpg"  
+#   overlay_filter = 0.0  # Darken the image. Value in range 0-1.
+
 [[item]]
-  overlay_img = "nav-tot.jpg"  
+  overlay_img = "lyme-hill.jpg"  
   overlay_filter = 0.0  # Darken the image. Value in range 0-1.
 
 [[item]]
-  overlay_img = "tim-herman.jpg"
-  overlay_filter = 0.0 
-  
-[[item]]
-  overlay_img = "bk-log.jpg"
-  overlay_filter = 0.0 
+   overlay_img = "tim-herman2.jpg"
+   overlay_filter = 0.0
 
 [[item]]
-  overlay_img = "melissa-pat_2.jpg"
-  overlay_filter = 0.0
-
-[[item]]
-  overlay_img = "defiance.JPG"  
+  overlay_img = "eze-galen.jpg"  
   overlay_filter = 0.0  # Darken the image. Value in range 0-1.
-
-[[item]]
-  overlay_img = "peel.jpg"
-  overlay_filter = 0.0
   
 [[item]]
-  overlay_img = "sog-rock.jpg"
-  overlay_filter = 0.0 
-  
-[[item]]
-  overlay_img = "royale-pat.jpg"
-  overlay_filter = 0.0 
-  
-[[item]]
-  overlay_img = "galen.jpg"
-  overlay_filter = 0.0 
-    
-[[item]]
-  overlay_img = "packed.jpg"
+  overlay_img = "north-fork.jpg"
   overlay_filter = 0.0 
 
+# [[item]]
+#   overlay_img = "melissa-pat_2.jpg"
+#   overlay_filter = 0.0
+# 
+
+# [[item]]
+#   overlay_img = "peel.jpg"
+#   overlay_filter = 0.0
+#   
+[[item]]
+   overlay_img = "sog-rock.jpg"
+   overlay_filter = 0.0 
+  
+# [[item]]
+#   overlay_img = "royale-pat.jpg"
+#   overlay_filter = 0.0 
+#   
+# [[item]]
+#   overlay_img = "galen.jpg"
+#   overlay_filter = 0.0 
+#     
+# [[item]]
+#   overlay_img = "packed.jpg"
+#   overlay_filter = 0.0 
+# 
 
 #   # Call to action button (optional).
 #   #   Activate the button by specifying a URL and button label below.

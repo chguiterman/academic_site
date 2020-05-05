@@ -28,4 +28,4 @@ Three Pines Forest Research, LLC. was established in 2019 to provide services to
   * Forest stand dynamics
   * Dating of historical structures and proveniencing of timbers
 
-Please contact me anytime with inquiries and ideas.  
+Please contact me anytime with inquiries or ideas.  

@@ -1,6 +1,6 @@
 ---
 authors:
-- admin
+- chris
 bio: Forests | Fire | Tree Rings | R
 education:
   courses:
@@ -17,6 +17,7 @@ email: ""
 interests:
 - Forest disturbance ecology
 - Human-environmental interactions
+- Forest type conversion
 - Dendrochronology
 name: Chris Guiterman
 organizations:
@@ -50,7 +51,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
-I am a Research Scientist at the Laboratory of Tree-Ring Research at the University of Arizona. My research interests cover a range of topics including forest disturbance ecology, forest demography, human-environmental interactions, and archaeology. I am keen to understand how humans and climate change have affected forest resilience and how these lessons can be applied to management decisions. I am also active in developing new tools and resources for tree-ring scientists to improve field sampling, analytical methods, and data visualization. 
+I am a Research Scientist for the University of Arizona's Laboratory of Tree-Ring Research. My research interests cover a range of topics including forest-disturbance ecology, forest demography, human-environmental interactions, and archaeology. Much of my research seeks to understand how humans and climate change have affected forest resilience and how these lessons can be applied to management decisions. I am also active in developing new tools and resources for tree-ring scientists to improve field sampling, analytical methods, and data visualization. 
 
 I currently work remotely for the Tree-Ring Lab from my home in Hanover, New Hampshire.
