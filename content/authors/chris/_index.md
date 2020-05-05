@@ -17,7 +17,7 @@ email: ""
 interests:
 - Forest disturbance ecology
 - Human-environmental interactions
-- Forest type conversion
+- Vegetation type conversion & alternative stable states in forest and shrubland communities
 - Dendrochronology
 name: Chris Guiterman
 organizations:
