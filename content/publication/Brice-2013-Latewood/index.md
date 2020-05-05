@@ -1,5 +1,5 @@
 ---
-title: 'Signal strength in sub-annual chronologies from Pinus ponderosa in northern New Mexico'
+title: 'Signal strength in sub-annual chronologies from *Pinus ponderosa* in northern New Mexico'
 authors: 
 - Rebecca Brice
 - Kara Lorion

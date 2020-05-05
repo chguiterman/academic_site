@@ -4,7 +4,7 @@ authors:
 - Stefan Klesse
 - R. Justin DeRose
 - Flurin Babst
-- Bryan Black1
+- Bryan Black
 - Leander Anderegg
 - Jodi Axelson
 - Ailene Ettinger

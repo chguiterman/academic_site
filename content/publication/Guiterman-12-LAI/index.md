@@ -1,5 +1,5 @@
 ---
-title: 'Long-Term Thinning Effects on the Leaf Area of Pinus strobus L. as Estimated from Litterfall and Individual-Tree Allometric Models'
+title: 'Long-Term Thinning Effects on the Leaf Area of *Pinus strobus* L. as Estimated from Litterfall and Individual-Tree Allometric Models'
 authors: 
 - '**Chris Guiterman**'
 - Robert Seymour

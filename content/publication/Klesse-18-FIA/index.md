@@ -16,7 +16,7 @@ featured: false
 #   focal_point: ""
 #   preview_only: true
 projects: []
-publication: '*Ecosystems*'
+publication: '*Nature Communications*'
 publication_short: ""
 publication_types:
 - "2"
