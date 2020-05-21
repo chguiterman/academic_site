@@ -22,15 +22,15 @@ authors:
 - Jose Villanueva-Díaz
 - Lisa Wood
 - Margaret Evans
-date: "2020-04-27T00:00:00Z"
-doi: ""
+date: "2020-05-20T00:00:00Z"
+doi: "10.1111/gcb.15170"
 featured: false
 projects: []
 publication: '*Global Change Biology*'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: ""
+publishDate: "2020-05-20T00:00:00Z"
 slides: ""
 summary: ""
 tags: ""
