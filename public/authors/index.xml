@@ -5,7 +5,7 @@
     <link>/chris-guiterman.rbind.io/authors/</link>
       <atom:link href="/chris-guiterman.rbind.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Chris Guiterman</copyright><lastBuildDate>Wed, 20 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Chris Guiterman</copyright><lastBuildDate>Thu, 27 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/chris-guiterman.rbind.io/img/avatar.jpg</url>
       <title>Authors</title>
@@ -15,8 +15,56 @@
     <item>
       <title>**Chris Guiterman**</title>
       <link>/chris-guiterman.rbind.io/authors/chris-guiterman/</link>
-      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
       <guid>/chris-guiterman.rbind.io/authors/chris-guiterman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ann Lynch</title>
+      <link>/chris-guiterman.rbind.io/authors/ann-lynch/</link>
+      <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/chris-guiterman.rbind.io/authors/ann-lynch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jodi Axelson</title>
+      <link>/chris-guiterman.rbind.io/authors/jodi-axelson/</link>
+      <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/chris-guiterman.rbind.io/authors/jodi-axelson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jean Huffman</title>
+      <link>/chris-guiterman.rbind.io/authors/jean-huffman/</link>
+      <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/chris-guiterman.rbind.io/authors/jean-huffman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kevin Robertson</title>
+      <link>/chris-guiterman.rbind.io/authors/kevin-robertson/</link>
+      <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/chris-guiterman.rbind.io/authors/kevin-robertson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monica Rother</title>
+      <link>/chris-guiterman.rbind.io/authors/monica-rother/</link>
+      <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/chris-guiterman.rbind.io/authors/monica-rother/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neil Jones</title>
+      <link>/chris-guiterman.rbind.io/authors/neil-jones/</link>
+      <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/chris-guiterman.rbind.io/authors/neil-jones/</guid>
       <description></description>
     </item>
     
@@ -25,14 +73,6 @@
       <link>/chris-guiterman.rbind.io/authors/ailene-ettinger/</link>
       <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
       <guid>/chris-guiterman.rbind.io/authors/ailene-ettinger/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ann Lynch</title>
-      <link>/chris-guiterman.rbind.io/authors/ann-lynch/</link>
-      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
-      <guid>/chris-guiterman.rbind.io/authors/ann-lynch/</guid>
       <description></description>
     </item>
     
@@ -97,14 +137,6 @@
       <link>/chris-guiterman.rbind.io/authors/jill-harvey/</link>
       <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
       <guid>/chris-guiterman.rbind.io/authors/jill-harvey/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jodi Axelson</title>
-      <link>/chris-guiterman.rbind.io/authors/jodi-axelson/</link>
-      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
-      <guid>/chris-guiterman.rbind.io/authors/jodi-axelson/</guid>
       <description></description>
     </item>
     
