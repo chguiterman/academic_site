@@ -7,7 +7,7 @@ education:
   - course: PhD in Natural Resource Studies
     institution: University of Arizona
     year: 2016
-  - course: MS in Forestry (Quantitative Silviculture)
+  - course: MS in Forestry (Silviculture)
     institution: University of Maine, Orono
     year: 2009
   - course: BA (with honors) in Geology
