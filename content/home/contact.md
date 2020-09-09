@@ -8,6 +8,10 @@ weight = 130  # Order that this section will appear.
 title = "Contact"
 subtitle = ""
 
+# Background image.
+image = "lyme-hill.jpg"  # Name of image in `static/img/`.
+image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+
 # Automatically link email and phone?
 autolink = true
 
