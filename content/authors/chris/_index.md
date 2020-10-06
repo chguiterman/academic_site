@@ -45,7 +45,7 @@ social:
   link: https://github.com/chguiterman
 - icon: cv
   icon_pack: ai
-  link: 'files/cv.pdf'
+  link: 'files/Guiterman_CV.pdf'
 superuser: true
 user_groups:
 - Researchers
