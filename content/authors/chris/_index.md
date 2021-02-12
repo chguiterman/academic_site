@@ -27,6 +27,7 @@ organizations:
 - name: Three Pines Forest Research, LLC
   url: "post/ThreePines/"
   role: Owner
+- name: He/Him/His
 social:
 - icon: envelope
   icon_pack: fas
