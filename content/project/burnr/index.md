@@ -10,6 +10,8 @@ url_video: ""
 ## burnr
 I have been collaborating to develop the `burnr` fire history library for more than 4 years. It's as much enjoyment as it is self-serving -- I needed to do a lot of fire history analyses for my dissertation and I wanted to do that in `R`. As good as other fire history programs are, I am an unashamed addict of using `R`. But more than that, I see the incredible potential of `R` for tree ring and all sciences, and I wanted to help others similarly interested in applying the program and its myriad of features to their own work. I truly hope people will use `burnr`, and I am more than happy to help in that effort.
 
+The `burnr` website is under development, but contains a lot of help for its functionality: <https://ltrr-arizona-edu.github.io/burnr/>
+
 So far, I have used `burnr` in several research projects, including my work on [shrubfields]({{< relref "/content/publication/Guiterman-18-Shrubs/index.md">}}) and the [Navajo fire history]({{< relref "/content/publication/Guiterman-19-NavFire/index.md">}}). Several more papers are in the works. 
 
 We are also pushing the bounds of `burnr` by conducting large-scale syntheses for the [American Southwest]({{< relref "/content/project/SW-fire-synthesis/index.md">}}) and for the [North American Continent]({{< relref "/content/project/NA-fire-synthesis/index.md">}}).
