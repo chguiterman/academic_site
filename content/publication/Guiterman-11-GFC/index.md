@@ -16,7 +16,6 @@ publication_types:
 publishDate: "2011-09-01T00:00:00Z"
 slides: ""
 tags: ""
-abstract: ""
 url_code: ""
 url_dataset: ""
 url_pdf: "files/Guiterman et al. 2011 - influence of thinning on white pine growth and volume.pdf"

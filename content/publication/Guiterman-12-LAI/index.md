@@ -16,7 +16,6 @@ publication_types:
 publishDate: "2012-02-01T00:00:00Z"
 slides: ""
 tags: ""
-abstract: ""
 url_code: ""
 url_dataset: ""
 url_pdf: "files/Guiterman et al. 2012_Thinning Effects on Leaf Area of Pinus Strobus - LA & LAI.pdf"

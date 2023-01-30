@@ -27,7 +27,6 @@ publication_types:
 publishDate: "2013-07-01T00:00:00Z"
 slides: ""
 tags: ""
-abstract: ""
 url_code: ""
 url_dataset: ""
 url_pdf: "files/Brice et al. 2013_Signal strength in LW at Cat Mesa.pdf"
