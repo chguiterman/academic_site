@@ -1,3 +1,4 @@
-http://chris-guiterman.rbind.io/*   https://chris-guiterman.rbind.io/:splat   301!
-http://chguiterman.netlify.app/*    https://chris-guiterman.rbind.io/:splat   301!
-https://chguiterman.netlify.app/*   https://chris-guiterman.rbind.io/:splat   301!
+http://chris-guiterman.rbind.io/*   https://cires.colorado.edu/researcher/chris-guiterman:splat   301!
+http://chguiterman.netlify.app/*    https://cires.colorado.edu/researcher/chris-guiterman:splat   301!
+https://chguiterman.netlify.app/*   https://cires.colorado.edu/researcher/chris-guiterman:splat   301!
+https://chris-guiterman.rbind.io/*  https://cires.colorado.edu/researcher/chris-guiterman:splat 301
